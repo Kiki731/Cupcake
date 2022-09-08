@@ -1,0 +1,51 @@
+ * {
+   padding: 0px;
+   margin: 0px;
+ }
+ .best{
+  background-image:url(../IMG/bg\ image.jpg);
+  height: 80vh;
+  width: 100%;
+  background-size: cover;
+  background-repeat:no-repeat
+}
+.bgsub h1{ padding-top: 100px;
+
+}
+h1{
+  color:white;
+  font-size: 80px;
+  text-align: center;
+  text-decoration: underline;
+}
+h2{
+  margin-top: 25px;
+  margin-bottom: 10px;
+  color: orange;
+  font-size: 30px;
+  text-decoration: underline;
+  text-align: center;
+}
+p.flashy{
+  color:brown;
+  text-align: center;
+  font-style: italic;
+}
+h3{
+  color: orange;
+  text-align: center;
+}
+img{
+  width: 350px;
+  height: 220px;
+  padding-left: 40px;
+  margin: 30px;
+}
+.img{
+  width: 350px;
+  height: 220px;
+  margin-left: 450px;
+  margin-top: 45px;
+  margin-bottom: 50px;
+
+}
